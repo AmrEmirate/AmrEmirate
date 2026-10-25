@@ -116,7 +116,7 @@ I am a **Full-Stack Software Engineer** and **Cloud Infrastructure Practitioner*
   <tbody>
     <tr>
       <td>
-        <b>🥟 <a href="https://github.com/AmrEmirate/Dimsum-Intan-Be">Dimsum Intan Cloud POS</a></b><br/>
+        <b>🥟 <a href="https://github.com/AmrEmirate/Dimsum-Intan-Fe">Dimsum Intan FE</a> & <a href="https://github.com/AmrEmirate/Dimsum-Intan-Be">BE</a></b><br/>
         <sub>Cloud F&B Retail & Accounting Engine</sub><br/>
         <img src="https://img.shields.io/badge/Status-Production-success?style=flat-square" alt="Status"/>
         <img src="https://img.shields.io/badge/CI%2FCD-GHCR-blue?style=flat-square" alt="CI/CD"/>
