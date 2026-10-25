@@ -1,11 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:3b82f6,50:6366f1,100:8b5cf6&height=200&section=header&text=Amr%20Emirate%20Abdurahman&fontSize=42&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%7C%20Cloud%20Systems%20%26%20DevOps&descFontSize=18&descAlignY=62&fontColor=ffffff" width="100%" alt="Header" />
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Cloud+Systems+%26+DevOps+Practitioner;TypeScript+%26+Node.js+Backend+Specialist;Building+Enterprise%2C+Logistics+%26+Retail+Cloud+Systems" alt="Typing SVG" />
-  </a>
+  <img src="./assets/header.svg" width="100%" alt="Amr Emirate Abdurahman - Full-Stack Software Engineer" />
 </div>
 
 <br/>
@@ -107,14 +101,6 @@ I am a **Full-Stack Software Engineer** and **Cloud Infrastructure Practitioner*
   </tr>
 </table>
 
-<br/>
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,prisma,postgres,redis,vue,react,tailwind,docker,githubactions,linux,nginx,cloudflare,git,postman" alt="Skill Icons Stream" />
-  </a>
-</div>
-
 ---
 
 ### 🚀 Production Systems & Architecture Showcase
@@ -150,44 +136,6 @@ I am a **Full-Stack Software Engineer** and **Cloud Infrastructure Practitioner*
     </tr>
     <tr>
       <td>
-        <b>📦 <a href="https://github.com/AmrEmirate/ProShip-BE">ProShip Logistics Cloud</a></b><br/>
-        <sub>Logistics & Shipping Management Engine</sub><br/>
-        <img src="https://img.shields.io/badge/Status-Production-success?style=flat-square" alt="Status"/>
-      </td>
-      <td>
-        • Shipping dispatch management, package tracking, and courier routing.<br/>
-        • Automated tariff calculation, invoice generation, and status delivery telemetry.<br/>
-        • High-throughput REST API backend deployed behind Traefik reverse proxy.
-      </td>
-      <td>
-        <code>TypeScript</code><br/>
-        <code>Node.js</code><br/>
-        <code>PostgreSQL</code><br/>
-        <code>Traefik</code><br/>
-        <code>Coolify</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>🚚 <a href="https://github.com/AmrEmirate/Akasia-Be">Akasia Logistik Fleet</a></b><br/>
-        <sub>Fleet & Supply Chain Management Platform</sub><br/>
-        <img src="https://img.shields.io/badge/Status-Production-success?style=flat-square" alt="Status"/>
-      </td>
-      <td>
-        • Supply chain and logistics fleet coordination platform.<br/>
-        • Multi-warehouse dispatch monitoring, vehicle telemetry, and cost reporting.<br/>
-        • Containerized microservice running on unified PostgreSQL database cluster.
-      </td>
-      <td>
-        <code>TypeScript</code><br/>
-        <code>Express</code><br/>
-        <code>Prisma</code><br/>
-        <code>PostgreSQL</code><br/>
-        <code>Docker</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>💼 <a href="https://github.com/AmrEmirate/ProtekSales-Be">Protek Sales Platform</a></b><br/>
         <sub>Enterprise Sales & Field Operations System</sub><br/>
         <img src="https://img.shields.io/badge/Status-Production-success?style=flat-square" alt="Status"/>
@@ -205,27 +153,45 @@ I am a **Full-Stack Software Engineer** and **Cloud Infrastructure Practitioner*
         <code>REST API</code>
       </td>
     </tr>
-  </tbody>
-</table>
-
----
-
-### 📊 GitHub Activity & Real-Time Telemetry
-
-<div align="center">
-  <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AmrEmirate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=A855F7" alt="GitHub Stats" />
+        <b>🚚 <a href="https://github.com/AmrEmirate/Akasia-FE">Akasia Logistik Fleet</a></b><br/>
+        <sub>Fleet & Supply Chain Management Platform</sub><br/>
+        <img src="https://img.shields.io/badge/Status-Production-success?style=flat-square" alt="Status"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrEmirate&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
+        • Supply chain and logistics fleet coordination platform.<br/>
+        • Multi-warehouse dispatch monitoring, vehicle telemetry, and cost reporting.<br/>
+        • Modern reactive frontend dashboard integrated with microservice cluster.
+      </td>
+      <td>
+        <code>Vue.js</code><br/>
+        <code>TypeScript</code><br/>
+        <code>Tailwind CSS</code><br/>
+        <code>Vite</code>
       </td>
     </tr>
-  </table>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrEmirate&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8" alt="GitHub Streak" />
-</div>
+    <tr>
+      <td>
+        <b>📦 ProShip Logistics Cloud</b><br/>
+        <sub>Logistics & Shipping Management Engine</sub><br/>
+        <img src="https://img.shields.io/badge/Status-Production-success?style=flat-square" alt="Status"/>
+      </td>
+      <td>
+        • Shipping dispatch management, package tracking, and courier routing.<br/>
+        • Automated tariff calculation, invoice generation, and status delivery telemetry.<br/>
+        • High-throughput REST API backend deployed behind Traefik reverse proxy.
+      </td>
+      <td>
+        <code>TypeScript</code><br/>
+        <code>Node.js</code><br/>
+        <code>PostgreSQL</code><br/>
+        <code>Traefik</code><br/>
+        <code>Coolify</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
